@@ -1,0 +1,11 @@
+C:\Users\matt\Documents\Visual Studio 2015\Projects\HostCommander\HostCommander\bin\Release\HostCommander.exe.config
+C:\Users\matt\Documents\Visual Studio 2015\Projects\HostCommander\HostCommander\bin\Release\HostCommander.exe
+C:\Users\matt\Documents\Visual Studio 2015\Projects\HostCommander\HostCommander\bin\Release\HostCommander.pdb
+C:\Users\matt\Documents\Visual Studio 2015\Projects\HostCommander\HostCommander\bin\Release\Castle.Core.dll
+C:\Users\matt\Documents\Visual Studio 2015\Projects\HostCommander\HostCommander\bin\Release\Castle.Windsor.dll
+C:\Users\matt\Documents\Visual Studio 2015\Projects\HostCommander\HostCommander\bin\Release\CommandLine.dll
+C:\Users\matt\Documents\Visual Studio 2015\Projects\HostCommander\HostCommander\bin\Release\Castle.Core.xml
+C:\Users\matt\Documents\Visual Studio 2015\Projects\HostCommander\HostCommander\bin\Release\Castle.Windsor.xml
+C:\Users\matt\Documents\Visual Studio 2015\Projects\HostCommander\HostCommander\bin\Release\CommandLine.xml
+C:\Users\matt\Documents\Visual Studio 2015\Projects\HostCommander\HostCommander\obj\Release\HostCommander.exe
+C:\Users\matt\Documents\Visual Studio 2015\Projects\HostCommander\HostCommander\obj\Release\HostCommander.pdb

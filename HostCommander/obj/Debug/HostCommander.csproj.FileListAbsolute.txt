@@ -1,0 +1,12 @@
+c:\users\matt\documents\visual studio 2015\Projects\HostCommander\HostCommander\bin\Debug\HostCommander.exe.config
+c:\users\matt\documents\visual studio 2015\Projects\HostCommander\HostCommander\bin\Debug\HostCommander.exe
+c:\users\matt\documents\visual studio 2015\Projects\HostCommander\HostCommander\bin\Debug\HostCommander.pdb
+c:\users\matt\documents\visual studio 2015\Projects\HostCommander\HostCommander\obj\Debug\HostCommander.csprojResolveAssemblyReference.cache
+c:\users\matt\documents\visual studio 2015\Projects\HostCommander\HostCommander\obj\Debug\HostCommander.exe
+c:\users\matt\documents\visual studio 2015\Projects\HostCommander\HostCommander\obj\Debug\HostCommander.pdb
+c:\users\matt\documents\visual studio 2015\Projects\HostCommander\HostCommander\bin\Debug\CommandLine.dll
+c:\users\matt\documents\visual studio 2015\Projects\HostCommander\HostCommander\bin\Debug\CommandLine.xml
+C:\Users\matt\Documents\Visual Studio 2015\Projects\HostCommander\HostCommander\bin\Debug\Castle.Core.dll
+C:\Users\matt\Documents\Visual Studio 2015\Projects\HostCommander\HostCommander\bin\Debug\Castle.Windsor.dll
+C:\Users\matt\Documents\Visual Studio 2015\Projects\HostCommander\HostCommander\bin\Debug\Castle.Core.xml
+C:\Users\matt\Documents\Visual Studio 2015\Projects\HostCommander\HostCommander\bin\Debug\Castle.Windsor.xml
